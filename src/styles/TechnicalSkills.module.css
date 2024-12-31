@@ -1,0 +1,19 @@
+.technicalSkills {
+    padding: 30px;
+    background-color: #eef;
+  }
+  
+  .technicalSkills h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .technicalSkills ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .technicalSkills li {
+    margin: 10px 0;
+  }
+  
